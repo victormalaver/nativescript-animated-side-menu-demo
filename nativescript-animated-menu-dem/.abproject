@@ -1,0 +1,28 @@
+{
+  "ProjectName": "nativescript-animated-menu-dem",
+  "ProjectGuid": "3e51bbf9-2178-4624-b6b1-4f6f73c2aad1",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.nativescriptanimatedmenudem",
+  "DisplayName": "nativescript-animated-menu-dem",
+  "Author": "",
+  "Description": "nativescript-animated-menu-dem",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "1.7.1",
+  "Framework": "NativeScript"
+}
